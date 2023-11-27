@@ -2,11 +2,9 @@
 
 CLIMBING HOLDS DETECTOR
 
-The program is designed to recognize climbing holds on pictures.
-
 A faster R-CNN model with an FPN backbone is used to guarantee better accuracy, especially on small objects
 
-RESULT
+-- RESULT --
 
 Sample results:
 
@@ -17,7 +15,8 @@ Sample results:
 Train loss diagram 
 python detect_image.py "C:\Users\itachi\UOL\lily\social_climbing_images\first.png"
 
-Usage
+-- USAGE--
+
 - Clone the repo using git clone --https://github.com/Kskz/holds-detector.git
 - Use pip install to install the dependencies
 - Upload data set from https://universe.roboflow.com/uol-sguju/holds-hs0d5/dataset/1 and add it to "data" directory
