@@ -10,7 +10,8 @@ Sample results:
 
 ![image](https://github.com/Kskz/holds-detector/assets/63345177/3a4fe29e-b884-4e22-97a4-f61bc71bf74a)
 
-<img width="638" alt="image" src="https://github.com/Kskz/holds-detector/assets/63345177/8e00eee1-6486-4d98-9633-846902eaff32">
+<img width="787" alt="image" src="https://github.com/Kskz/holds-detector/assets/63345177/6544c476-2b7f-4261-ad21-3d2060f15bd5">
+
 
 
 Train loss diagram 
