@@ -10,10 +10,12 @@ Sample results:
 
 ![image](https://github.com/Kskz/holds-detector/assets/63345177/3a4fe29e-b884-4e22-97a4-f61bc71bf74a)
 
-![image](https://github.com/Kskz/holds-detector/assets/63345177/17a153f2-ace9-4522-b078-203f92fbe161)
+<img width="638" alt="image" src="https://github.com/Kskz/holds-detector/assets/63345177/8e00eee1-6486-4d98-9633-846902eaff32">
+
 
 Train loss diagram 
-python detect_image.py "C:\Users\itachi\UOL\lily\social_climbing_images\first.png"
+python detect_image.py ![image](https://github.com/Kskz/holds-detector/assets/63345177/c0b19ba8-beb3-4e1b-b84e-a03fc6b22c28)
+
 
 -- USAGE--
 
