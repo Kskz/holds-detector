@@ -1,6 +1,6 @@
-# holds-detector
+# CLIMBING HOLDS DETECTOR
 
-CLIMBING HOLDS DETECTOR
+
 
 A faster R-CNN model with an FPN backbone is used to guarantee better accuracy, especially on small objects
 
