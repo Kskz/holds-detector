@@ -15,7 +15,8 @@ Sample results:
 
 
 Train loss diagram 
-python detect_image.py ![image](https://github.com/Kskz/holds-detector/assets/63345177/c0b19ba8-beb3-4e1b-b84e-a03fc6b22c28)
+
+![image](https://github.com/Kskz/holds-detector/assets/63345177/c0b19ba8-beb3-4e1b-b84e-a03fc6b22c28)
 
 
 -- USAGE--
